@@ -1,0 +1,7 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+BasicBench	hello fib naive		1000000	2180434
+BasicBench	hello fib tco		10000000	1247643
+BasicBench	hello list		500000	1488964
+BasicBench	hello naive		100000000	4029997
+BasicBench	hello tco		100000000	3894066

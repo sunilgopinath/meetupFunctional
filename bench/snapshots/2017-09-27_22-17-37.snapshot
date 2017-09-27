@@ -1,0 +1,4 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+BasicBench	hello list		1000000	2842164
+BasicBench	hello list1		500	3186690
